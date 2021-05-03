@@ -4,8 +4,8 @@
   "description": "Node API using SOLID principles and TDD",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:staged":"jest"
+    "test": "jest --passWithNoTests",
+    "test:staged":"jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
