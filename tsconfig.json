@@ -5,6 +5,5 @@
         "target": "es2020",
         "esModuleInterop": true,
         "allowJs": true,
-        "strictNullChecks": true
     }
 }
