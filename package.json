@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/wMeloFernandes/clean-node-api/issues"
   },
-  "homepage": "https://github.com/wMeloFernandes/clean-node-api#readme"
+  "homepage": "https://github.com/wMeloFernandes/clean-node-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.1.0",
+    "i": "^0.3.6",
+    "npm": "^7.11.2"
+  }
 }
